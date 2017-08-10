@@ -34,7 +34,7 @@ An introduction to blogging and why we do it
  - Deep dives on topics you’re currently studying
 
 ## YAY Ideas
- - Spell and grammar check!
+ - Spelling and grammar check!
  - Test your code in console before publishing
  - Cite your sources
  - Include quotes
