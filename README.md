@@ -12,7 +12,7 @@ An introduction to blogging and why we do it
  
  ## A Short and Happy Story about Blogging
  
- Tracy maintained a technical blog while she was a student and TA at Flatiron. When Tracy applied to be a developer at Rent the Runway, her future employers checked out her <a href="http://talum.github.io/">awesome blog</a> and were like, 'Wow--awesome blog! No need to give her a code challenge; Let's hire this way smart person!!'
+ Tracy Lum maintained a technical blog while she was a student and TA at Flatiron. When Tracy applied to be a developer at Rent the Runway, her future employers checked out her <a href="http://talum.github.io/">awesome blog</a> and were like, 'Wow--awesome blog! No need to give her a code challenge; Let's hire this way smart person!!'
   
  ## What you need to do
  - Write a blog once per module and present it on your scheduled day
