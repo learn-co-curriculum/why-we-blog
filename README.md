@@ -23,7 +23,7 @@ An introduction to blogging and why we do it
  - Write a blog once per module and present it on your scheduled day
  - The topic of your post can be something we've covered in class or a technical topic not covered in class
  - The blog post should be written on your own time outside of class. 
- - Use whichever platform you prefer: Medium, Octopress, Wordpress, Jekyll
+ - Use whichever platform you prefer: Medium, Wordpress, Jekyll
  - The presentation will be less than 5 minutes with followup questions from your classmates
  
  ## YAY Topics
