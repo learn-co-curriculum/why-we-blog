@@ -24,7 +24,36 @@ An introduction to blogging and why we do it
  - The topic of your post can be something we've covered in class or a technical topic not covered in class
  - The blog post should be written on your own time outside of class. 
  - Use whichever platform you prefer: Medium, Octopress, Wordpress, Jekyll
- - Include gifs and code snippets as needed
  - The presentation will be less than 5 minutes with followup questions from your classmates
+ 
+ ## YAY Topics
+ - A bug you ran into
+ - A new package, feature, or update 
+ - How-to guides
+ - How-I-made-this 
+ - Deep dives on topics you’re currently studying
+
+## YAY Ideas
+ - Spell and grammar check!
+ - Test your code in console before publishing
+ - Cite your sources
+ - Include quotes
+ - Include code snippets
+ - Include gifs
+ 
+## BOO topics
+ - Anything not related to web development
+
+## BOO ideas
+ - Plagiarize = expelled
+ - Put out code without testing it first
+ - Present on a topic you actually haven’t studied
+ - Include offensive material (kid and grandma proof)
+ - Spend more than 5 minutes presenting
+ - Read your blog out. Loud. Word. For. Word.
+
+!(https://media.giphy.com/media/xpxtdcSjOIUSI/giphy.gif)
+
+
 
 
