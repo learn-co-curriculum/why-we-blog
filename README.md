@@ -52,7 +52,7 @@ An introduction to blogging and why we do it
  - Spend more than 5 minutes presenting
  - Read your blog out. Loud. Word. For. Word.
  
- ** Okay, you're ready! Go forth and blog. **
+ **Okay, you're ready! Go forth and blog.**
 
 ![blog gif](https://media.giphy.com/media/xpxtdcSjOIUSI/giphy.gif)
 
