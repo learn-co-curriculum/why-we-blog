@@ -17,7 +17,7 @@ An introduction to blogging and why we do it
  ## Other Good Stories
  
   - A student from 062617 had their <a href="https://codeburst.io/bottom-of-the-barrel-8ef73eff00f0">blog post</a> picked up by a Medium publication.
-  - A student from 0217 had a potential employer reach out to them via blog post comment.
+  - A student from 0217 had received a job offer from an employer who found him through his blog.  
   
  ## What you need to do
  - Write a blog once per module and present it on your scheduled day
