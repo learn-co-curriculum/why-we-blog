@@ -5,8 +5,8 @@ An introduction to blogging and why we do it
 ## Why blog?
  - Show technical knowledge
  - For you (the student); For your peers; For community; For employers
- - Build Community
- - Build Credibility
+ - Build community
+ - Build credibility
  - Track progress
  - Make contributions to others’ development, even as an early developer
  
@@ -42,7 +42,7 @@ An introduction to blogging and why we do it
  - Include gifs
  
 ## BOO topics
- - Anything not related to web development
+ - Anything not related to programming
 
 ## BOO ideas
  - Plagiarize = expelled
