@@ -48,7 +48,7 @@ An introduction to blogging and why we do it
  - Plagiarize = expelled
  - Put out code without testing it first
  - Present on a topic you actually haven’t studied
- - Include offensive material (kid and grandma proof)
+ - Include offensive material (kid- and grandparent-proof)
  - Spend more than 5 minutes presenting
  - Read your blog out. Loud. Word. For. Word.
  
